@@ -17,7 +17,6 @@ Transform the Gender column so that it contains the values F and M.
 
 Convert the column names to lowercase letters.
 
-💡 It is good practice to check the data after manipulations. Use the head() and info() methods for this purpose.
 
 Add a text block and create a heading “Descriptive Analytics”. In it, perform the following:
 
