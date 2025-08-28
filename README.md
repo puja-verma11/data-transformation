@@ -1,4 +1,4 @@
-# data-transformation
+# data-transformation - Copy of Descriptive Analytics with Pandas assignment
 Upload the dataset sales.csv to your Google Drive.
 
 Create a new Google Colab file and connect it to your Google Drive.
