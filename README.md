@@ -20,8 +20,8 @@ Convert the column names to lowercase letters.
 
 Add a text block and create a heading “Descriptive Analytics”. In it, perform the following:
 
-What is the maximum and minimum sales amount (sales_amount)? What is the total, average, and median of this metric? Create a text block and write the answers to these questions.
-How many product categories does the company sell? What is the popularity of each category? Create text blocks and write the answers to these questions.
-Name the top 5 most popular products. Create a text block and write the answer to this question.
-Who purchases more often, women or men? Create a text block and write the answer to this question.
-What is the most popular payment method? Create a text block and write the answer to this question.
+- What is the maximum and minimum sales amount (sales_amount)? What is the total, average, and median of this metric? Create a text block and write the answers to these questions.
+- How many product categories does the company sell? What is the popularity of each category? Create text blocks and write the answers to these questions.
+- Name the top 5 most popular products. Create a text block and write the answer to this question.
+- Who purchases more often, women or men? Create a text block and write the answer to this question.
+- What is the most popular payment method? Create a text block and write the answer to this question.
